@@ -11,11 +11,11 @@ end
 
 def take_a_number (katz_deli, name)
   if katz_deli.empty?
-    katz_deli << person
-    puts "Welcome, #{person}. You are number 1 in line."
+    katz_deli << name
+    puts "Welcome, #{name}. You are number 1 in line."
   else
-    katz_deli << person 
-    puts "Welcome, #{person}. You are number 4 in line."
+    katz_deli << name 
+    puts "Welcome, #{name}. You are number 4 in line."
   end
 end
 
