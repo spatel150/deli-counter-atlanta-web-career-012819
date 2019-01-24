@@ -7,7 +7,7 @@ def line(katz_deli)
   else
     deli_line = "The line is currently: "
     katz_deli.each do |lines, index|
-      puts 
+      deli_line << 
   end
 end
 
