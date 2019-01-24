@@ -11,4 +11,5 @@ end
 
 def take_a_number (katz_deli, name)
   if katz_deli.empty?
-    puts 
+    katz_deli << person
+    puts "Welcome, #{person}. You are number #{katz_deli} in line."
