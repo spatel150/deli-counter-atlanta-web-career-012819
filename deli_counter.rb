@@ -2,4 +2,4 @@
 katz_deli = []
 
 def line(katz_deli)
-  if line
+  if katz_deli.empty?
