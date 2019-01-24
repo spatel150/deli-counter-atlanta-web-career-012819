@@ -1,2 +1,5 @@
 # Write your code here.
-def 
+katz_deli = []
+
+def line(katz_deli)
+  if line
