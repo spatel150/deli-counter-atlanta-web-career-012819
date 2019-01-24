@@ -8,3 +8,5 @@ def line(katz_deli)
     puts "The line is currently: 1. #{katz_deli[0]} 2. #{katz_deli[1]} 3. #{katz_deli[2]}"
   end
 end
+
+
